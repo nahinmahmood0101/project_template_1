@@ -28,4 +28,4 @@ Re-cap (***Why we're doing this***):
   
   
 
-If you have a question or if im moving too slow or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
+That's it, If you have a question or if im moving too slow or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
