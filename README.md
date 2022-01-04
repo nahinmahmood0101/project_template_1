@@ -12,14 +12,14 @@ Pre-req: You need have downloaded Node.js and if on Mac XCode Tools, if on pc, g
 
 So the task is this:
 
-  1.)clone my "template" repo and this repo using ssh or html
+  1.)clone the "template" repository and this repo using ssh or html
   2.)take the training__studio template from the file and upload it to this repo
 
 
 
 
 
-If you have a question or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it your grown you can do it.
+If you have a question or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
 
 
 
