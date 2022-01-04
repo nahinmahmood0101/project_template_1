@@ -26,4 +26,4 @@ So the task is this:
   
   
 
-If you have a question or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
+If you have a question or if im moving too slow anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
