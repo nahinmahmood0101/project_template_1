@@ -12,8 +12,8 @@ Pre-req: You need to be able to use git commads on terminal(git clone, git add, 
 
 So the task is this:
 
-  1.)clone this repo and my "template" repo using ssh or html either way
-  2.)take only the training__studio template from the file and upload it to this repo
+  1.)clone my "template" repo and this repo using ssh or html 
+  2.)take the training__studio template from the file and upload it to this repo
 
 
 
