@@ -1,4 +1,4 @@
-# Laying the groundwork(GitHub 101)
+# Laying the groundwork (GitHub 101)
 
 
 
