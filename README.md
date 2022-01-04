@@ -6,7 +6,7 @@
 
 Re-cap (***Why we're doing this***):
   
-  **The point:**  The point isn't to reinvent the wheel, it's to make that mf wheel well, and in large quantities. 
+  **The point:**  The point isn't to reinvent the wheel, it's to make a quality mf wheel, and in large quantities. 
   **The logic:**  If we both work on this project together, we can get the work done faster, be outputting 2x more stuff, and the result comes out better than if we just              did it ourselves. We'll be able to give constructive feedback in real-time so we can help eachother out. Also it's to ensure that we're in fact putting              out straight gas. In the future, our skills will be traced back to this foundation. 
   **The goal:** Refinement and Output.
   **The assumption:** You can hold your own weight
