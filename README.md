@@ -12,7 +12,7 @@ Closing remarks: We need a space for our code to exist to give it a chance to gr
 
 
 
-Pre-req: You need to have downloaded Node.js and if on Mac XCode Tools, if on pc, google this but also download git. You need to be able to use all the git commands on terminal(git clone, git add, git commit -m, etc) and some terminal commands(cd, cat, rm, etc). Also, I trust you to be able to decern when to commit to main and when to make a new branch.
+Pre-req: You need to have downloaded Node.js and if on Mac XCode Tools, check if you have them first(git --version),(node -v). If when you try to clone it ask you to download XCode Tools click yes. You need to be able to use all the git commands on terminal(git clone, git add, git commit -m, etc) and some terminal commands(cd, cat, rm, etc). Also, I trust you to be able to decern when to commit to main and when to make a new branch.
 
 
 So the task is this:
