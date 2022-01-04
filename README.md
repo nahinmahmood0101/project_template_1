@@ -6,13 +6,13 @@ The hope is we can both work on this together so that result comes out better th
 
 
 
-Pre-req: You need to be able to use git commads on terminal(git clone, git add, git commit -m, etc). Also I trust you to be able to decern when to commit to main and when to make a new branch.
+Pre-req: You need have downloaded Node.js and if on Mac XCode Tools, if on pc, google this but also download git. You need to be able to use all the git commads on terminal(git clone, git add, git commit -m, etc) and some terminal commands. Also I trust you to be able to decern when to commit to main and when to make a new branch.
 
 
 
 So the task is this:
 
-  1.)clone my "template" repo and this repo using ssh or html 
+  1.)clone my "template" repo and this repo using ssh or html
   2.)take the training__studio template from the file and upload it to this repo
 
 
