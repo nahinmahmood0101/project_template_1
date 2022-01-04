@@ -17,7 +17,7 @@ Re-cap (***Why we're doing this***):
 **Pre-req: You need to have downloaded Node.js and XCode Tools, check if you have them first. Enter any of these(git --version),(node -v), (npm -v) into the command line to check. If when you clone it ask you to download XCode Tools click yes. You need to be able to use all the git commands on terminal(git clone, git add, git status, git commit -m, etc) and some terminal commands(cd, mkdir, cat, rm, -s, -r, sudo, nano, etc). Also, I trust you to be able to decern when to commit to main and when to make a new branch.**
 
 
-**The Background:** The first repo I made ("template") is a list of templates to use as the starting point for our templates. Not very original I know.
+**The Background:** The first repo I made ("template") is a list of templates to use as a starting point for our templates. Not very original Ik.
 
 ***So the task is this:***
 
@@ -28,4 +28,4 @@ Re-cap (***Why we're doing this***):
   
   
 
-If you have a question or if im moving too slow anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
+If you have a question or if im moving too slow or anything hmu on discord:https://discord.gg/6ztd5yb9vD or just google it.
