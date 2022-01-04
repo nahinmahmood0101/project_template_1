@@ -21,10 +21,10 @@ The Background: The first repo I made ("template") is a list of templates to use
 
 ***So the task is this:***
 
-  1.)Create a new folder, call it /Projects 
-  2.)Clone this repo and the ("template") repo into /Projects using ssh or html
-  2.)Take the /training__studio_template from the clone and upload it to this repo
-  3.)When uploading the files to github, use the terminal to commit changes to "project_template_1" 
+  **1.)** Create a new folder, call it /Projects 
+  **2.)** Clone this repo and the ("template") repo into /Projects using ssh or html
+  **3.)** Take the /training__studio_template from the clone and upload it to this repo
+  **4.)** When uploading the files to github, use the terminal to commit changes to "project_template_1" 
   
   
 
