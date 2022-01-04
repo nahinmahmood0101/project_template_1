@@ -21,8 +21,9 @@ The Background: The first repo I made ("template") is a list of templates to use
 
 So the task is this:
 
-  1.)clone this repo and the "template" repo using ssh or html 
-  2.)take the training__studio template from the file and upload it to this repo
+  1.)Clone this repo and the "template" repo using ssh or html 
+  2.)Take the training__studio template from the file and upload it to this repo
+  3.)When uploading the files to github, use only the terminal to commit changes to "project_template_1" 
   
   
 
